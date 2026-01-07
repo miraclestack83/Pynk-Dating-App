@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "875376051168",
+    "firebase_url": "https://pynk-46ca1-default-rtdb.firebaseio.com",
+    "project_id": "pynk-46ca1",
+    "storage_bucket": "pynk-46ca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875376051168:android:b6bb91949d0530b0166185",
+        "android_client_info": {
+          "package_name": "com.dreamvizapps.pynk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875376051168-rko4ki676rg4kf57e0gpeg3fgd59nmr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamvizapps.pynk",
+            "certificate_hash": "2d712729b85ef860d31e6a09b6697cabcd1b5806"
+          }
+        },
+        {
+          "client_id": "875376051168-342a4iamuetsn2g264rmqbv8f2ekjdok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRWkismh8mh3t2graW_4SVl_coim5_vkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875376051168-342a4iamuetsn2g264rmqbv8f2ekjdok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "875376051168-9k9d51maq34kotm745igos9f197h6jps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flirtzy.pink"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875376051168:android:069529488c966839166185",
+        "android_client_info": {
+          "package_name": "com.products.hooko_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875376051168-342a4iamuetsn2g264rmqbv8f2ekjdok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRWkismh8mh3t2graW_4SVl_coim5_vkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875376051168-342a4iamuetsn2g264rmqbv8f2ekjdok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "875376051168-9k9d51maq34kotm745igos9f197h6jps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flirtzy.pink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

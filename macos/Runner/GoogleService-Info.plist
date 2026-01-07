@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>875376051168-d185b7j49g3n9ig727at97jsthe0pl2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.875376051168-d185b7j49g3n9ig727at97jsthe0pl2r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>875376051168-rko4ki676rg4kf57e0gpeg3fgd59nmr9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7TAW9XboVmyTYQu2FnT3lR2ZxNFOlE80</string>
+	<key>GCM_SENDER_ID</key>
+	<string>875376051168</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dreamvizapps.pynk</string>
+	<key>PROJECT_ID</key>
+	<string>pynk-46ca1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pynk-46ca1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:875376051168:ios:940a57fa6135aba8166185</string>
+	<key>DATABASE_URL</key>
+	<string>https://pynk-46ca1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
